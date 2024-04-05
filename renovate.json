@@ -9,7 +9,7 @@
     ],
     "packageRules": [
         {
-          "matchUpdateType": ["major", "minor", "patch", "pin", "pinDigest", "digest", "lockFileMaintenance", "rollback", "bump", "replacement"]
+          "matchUpdateType": ["major", "minor", "patch", "pin", "pinDigest", "digest", "lockFileMaintenance", "rollback", "bump", "replacement"],
           "automerge": true
         }
     ],
