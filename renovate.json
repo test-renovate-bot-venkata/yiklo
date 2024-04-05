@@ -13,5 +13,8 @@
     "labels": ["auto-update"],
     "recreateWhen": "always",
     "automerge": true,
-    "schedule": ["* * 15 * *"]
+    "schedule": ["* * 15 * *"],
+    "argocd": {
+        "fileMatch": ["\\.yaml$"]
+    },
   }
