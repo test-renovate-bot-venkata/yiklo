@@ -16,5 +16,5 @@
     "schedule": ["* * 15 * *"],
     "argocd": {
         "fileMatch": ["\\.yaml$"]
-    },
+    }
   }
