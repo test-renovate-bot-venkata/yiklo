@@ -4,7 +4,8 @@
       "config:recommended",
       "docker:pinDigests",
       "helpers:pinGitHubActionDigests",
-      ":pinDevDependencies"
+      ":pinDevDependencies",
+      ":semanticCommits"
     ],
     "separateMinorPatch": true,
     "labels": ["auto-update"],
