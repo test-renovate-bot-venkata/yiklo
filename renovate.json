@@ -8,6 +8,9 @@
       ":semanticCommits"
     ],
     "separateMinorPatch": true,
+    "separateMultipleMajor": true,
+    "separateMultipleMinor": true,
     "labels": ["auto-update"],
-    "recreateWhen": "always"
+    "recreateWhen": "always",
+    "automerge": true
   }
