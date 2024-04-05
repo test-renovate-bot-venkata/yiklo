@@ -19,5 +19,5 @@
     "labels": ["auto-update"],
     "recreateWhen": "always",
     "automerge": true,
-    "schedule": ["* 0 15 * *"]
+    "schedule": ["* * 15 * *"]
   }
