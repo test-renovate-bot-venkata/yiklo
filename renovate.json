@@ -7,5 +7,6 @@
       ":pinDevDependencies"
     ],
     "separateMinorPatch": true,
-    "labels": ["auto-update"]
+    "labels": ["auto-update"],
+    "recreateWhen": "always"
   }
