@@ -18,5 +18,6 @@
     "separateMultipleMinor": true,
     "labels": ["auto-update"],
     "recreateWhen": "always",
-    "automerge": true
+    "automerge": true,
+    "schedule": ["0 15 * * *"]
   }
